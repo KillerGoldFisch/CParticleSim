@@ -1,0 +1,76 @@
+﻿Der Buildvorgang wurde am 10.10.2011 14:27:10 gestartet.
+     1>Projekt "C:\Users\KillerGoldFisch\Documents\Dropbox\Programmierung\C++\CParticleSim\CParticleSim\CParticleSim.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\CParticleSim.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\CParticleSim.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\CParticleSim.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CParticleSim.cpp OpenGL_Helper.cpp Particle.cpp ParticleSnapshot.cpp ParticleSystem.cpp
+         ParticleSystem.cpp
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\particlesystem.cpp(26): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\particlesystem.cpp(28): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\particlesystem.cpp(30): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\particlesystem.cpp(37): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\particlesystem.cpp(95): warning C4244: 'return': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\particlesystem.cpp(116): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+         ParticleSnapshot.cpp
+         Particle.cpp
+         OpenGL_Helper.cpp
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(22): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(22): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(22): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(22): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(22): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(22): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(22): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(22): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(23): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(23): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(23): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(23): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(23): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(23): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(23): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(23): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(24): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(24): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(24): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(24): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(24): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(24): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(24): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(24): warning C4305: 'Initialisierung': Verkürzung von 'double' in 'GLfloat'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(620): warning C4101: 'bufferZ': Unreferenzierte lokale Variable
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(659): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234): Siehe Deklaration von 'fopen'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\opengl_helper.cpp(770): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371): Siehe Deklaration von 'vsprintf'
+         CParticleSim.cpp
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\cparticlesim.cpp(72): warning C4018: '>': Konflikt zwischen 'signed' und 'unsigned'
+     1>c:\users\killergoldfisch\documents\dropbox\programmierung\c++\cparticlesim\cparticlesim\cparticlesim.cpp(195): warning C4305: '*=': Verkürzung von 'double' in 'float'
+         Code wird generiert...
+       ManifestResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KillerGoldFisch\Documents\Dropbox\Programmierung\C++\CParticleSim\Debug\CParticleSim.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CParticleSim.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\KillerGoldFisch\Documents\Dropbox\Programmierung\C++\CParticleSim\Debug\CParticleSim.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KillerGoldFisch\Documents\Dropbox\Programmierung\C++\CParticleSim\Debug\CParticleSim.lib" /MACHINE:X86 Debug\CParticleSim.exe.embed.manifest.res
+         Debug\CParticleSim.obj
+         Debug\OpenGL_Helper.obj
+         Debug\Particle.obj
+         Debug\ParticleSnapshot.obj
+         Debug\ParticleSystem.obj
+         Debug\stdafx.obj
+         LINK : C:\Users\KillerGoldFisch\Documents\Dropbox\Programmierung\C++\CParticleSim\Debug\CParticleSim.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CParticleSim.exe.embed.manifest" /manifest Debug\CParticleSim.exe.intermediate.manifest
+         Alle Ausgaben sind aktuell.
+       LinkEmbedManifest:
+         Alle Ausgaben sind aktuell.
+         CParticleSim.vcxproj -> C:\Users\KillerGoldFisch\Documents\Dropbox\Programmierung\C++\CParticleSim\Debug\CParticleSim.exe
+       FinalizeBuildStatus:
+         Die Datei "Debug\CParticleSim.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\CParticleSim.lastbuildstate".
+     1>Die Erstellung des Projekts "C:\Users\KillerGoldFisch\Documents\Dropbox\Programmierung\C++\CParticleSim\CParticleSim\CParticleSim.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:13.38
